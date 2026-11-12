@@ -1,3 +1,3 @@
 APP_NAME = "DevOps Core Tooling"
-AUTH_MODE = "basic"
+AUTH_MODE = "token"
 LOG_LEVEL = "INFO"
